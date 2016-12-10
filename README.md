@@ -1,0 +1,32 @@
+captain
+=========
+
+[![Dependency Status](https://img.shields.io/gemnasium/halyard/captain.svg)](https://gemnasium.com/halyard/captain)
+[![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://tldrlegal.com/license/mit-license)
+[![Build Status](https://img.shields.io/circleci/project/halyard/captain/master.svg)](https://circleci.com/gh/halyard/captain)
+
+Puppet configurations for my Linux systems
+
+## Systems
+
+This repo is designed to cover all my Linux systems. Currently, it covers:
+
+* dashboard (Raspberry Pi 1)
+
+Pending projects:
+
+* infra-va (ASUS Netbook, serial console server and iPXE server)
+* mediacenter (Raspberry Pi 3)
+
+## Install
+
+### Bootstrapping
+
+Set up the initial OS based on the type of device
+
+#### Dashboard
+
+## License
+
+These scripts and config files are released under the MIT License. See the bundled LICENSE file for details.
+
