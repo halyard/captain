@@ -3,7 +3,6 @@
 captain
 =========
 
-[![Dependency Status](https://img.shields.io/gemnasium/halyard/captain.svg)](https://gemnasium.com/halyard/captain)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://tldrlegal.com/license/mit-license)
 [![Build Status](https://img.shields.io/circleci/project/halyard/captain/master.svg)](https://circleci.com/gh/halyard/captain)
 
