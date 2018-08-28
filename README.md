@@ -4,7 +4,7 @@ captain
 =========
 
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://tldrlegal.com/license/mit-license)
-[![Build Status](https://img.shields.io/circleci/project/halyard/captain/master.svg)](https://circleci.com/gh/halyard/captain)
+[![Build Status](https://img.shields.io/travis/com/halyard/captain.svg)](https://travis-ci.com/halyard/captain)
 
 Puppet configurations for my Linux systems
 
